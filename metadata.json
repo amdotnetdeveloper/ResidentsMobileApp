@@ -1,0 +1,6 @@
+{
+  "name": "Resident Directory",
+  "description": "An elegant and efficient community directory to manage, filter, and sort building residents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
